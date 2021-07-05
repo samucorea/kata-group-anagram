@@ -1,36 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Samuel\\kataGroupFSharp\\AnagramCheck.Tests\\AnagramCheck.Tests.fsproj": {}
+    "C:\\Users\\Freedom 7231\\Desktop\\samurepo\\AnagramCheck.Tests\\AnagramCheck.Tests.fsproj": {}
   },
   "projects": {
-    "C:\\Users\\Samuel\\kataGroupFSharp\\AnagramCheck.Tests\\AnagramCheck.Tests.fsproj": {
+    "C:\\Users\\Freedom 7231\\Desktop\\samurepo\\AnagramCheck.Tests\\AnagramCheck.Tests.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Samuel\\kataGroupFSharp\\AnagramCheck.Tests\\AnagramCheck.Tests.fsproj",
+        "projectUniqueName": "C:\\Users\\Freedom 7231\\Desktop\\samurepo\\AnagramCheck.Tests\\AnagramCheck.Tests.fsproj",
         "projectName": "AnagramCheck.Tests",
-        "projectPath": "C:\\Users\\Samuel\\kataGroupFSharp\\AnagramCheck.Tests\\AnagramCheck.Tests.fsproj",
-        "packagesPath": "C:\\Users\\Samuel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Samuel\\kataGroupFSharp\\AnagramCheck.Tests\\obj\\",
+        "projectPath": "C:\\Users\\Freedom 7231\\Desktop\\samurepo\\AnagramCheck.Tests\\AnagramCheck.Tests.fsproj",
+        "packagesPath": "C:\\Users\\Freedom 7231\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Freedom 7231\\Desktop\\samurepo\\AnagramCheck.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Samuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Freedom 7231\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\Samuel\\Downloads\\pastel-master": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Samuel\\kataGroupFSharp\\AnagramCheck\\AnagramCheck.fsproj": {
-                "projectPath": "C:\\Users\\Samuel\\kataGroupFSharp\\AnagramCheck\\AnagramCheck.fsproj"
+              "C:\\Users\\Freedom 7231\\Desktop\\samurepo\\AnagramCheck\\AnagramCheck.fsproj": {
+                "projectPath": "C:\\Users\\Freedom 7231\\Desktop\\samurepo\\AnagramCheck\\AnagramCheck.fsproj"
               }
             }
           }
@@ -76,29 +73,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Samuel\\kataGroupFSharp\\AnagramCheck\\AnagramCheck.fsproj": {
+    "C:\\Users\\Freedom 7231\\Desktop\\samurepo\\AnagramCheck\\AnagramCheck.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Samuel\\kataGroupFSharp\\AnagramCheck\\AnagramCheck.fsproj",
+        "projectUniqueName": "C:\\Users\\Freedom 7231\\Desktop\\samurepo\\AnagramCheck\\AnagramCheck.fsproj",
         "projectName": "AnagramCheck",
-        "projectPath": "C:\\Users\\Samuel\\kataGroupFSharp\\AnagramCheck\\AnagramCheck.fsproj",
-        "packagesPath": "C:\\Users\\Samuel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Samuel\\kataGroupFSharp\\AnagramCheck\\obj\\",
+        "projectPath": "C:\\Users\\Freedom 7231\\Desktop\\samurepo\\AnagramCheck\\AnagramCheck.fsproj",
+        "packagesPath": "C:\\Users\\Freedom 7231\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Freedom 7231\\Desktop\\samurepo\\AnagramCheck\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Samuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Freedom 7231\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\Samuel\\Downloads\\pastel-master": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -133,7 +127,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

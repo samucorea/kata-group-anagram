@@ -8,3 +8,13 @@ C:\Users\Samuel\kataGroupFSharp\AnagramCheck\obj\Debug\net5.0\AnagramCheck.Assem
 C:\Users\Samuel\kataGroupFSharp\AnagramCheck\obj\Debug\net5.0\AnagramCheck.dll
 C:\Users\Samuel\kataGroupFSharp\AnagramCheck\obj\Debug\net5.0\AnagramCheck.xml
 C:\Users\Samuel\kataGroupFSharp\AnagramCheck\obj\Debug\net5.0\AnagramCheck.pdb
+C:\Users\Freedom 7231\Desktop\samurepo\AnagramCheck\bin\Debug\net5.0\AnagramCheck.deps.json
+C:\Users\Freedom 7231\Desktop\samurepo\AnagramCheck\bin\Debug\net5.0\AnagramCheck.dll
+C:\Users\Freedom 7231\Desktop\samurepo\AnagramCheck\bin\Debug\net5.0\AnagramCheck.pdb
+C:\Users\Freedom 7231\Desktop\samurepo\AnagramCheck\bin\Debug\net5.0\AnagramCheck.xml
+C:\Users\Freedom 7231\Desktop\samurepo\AnagramCheck\obj\Debug\net5.0\AnagramCheck.fsprojAssemblyReference.cache
+C:\Users\Freedom 7231\Desktop\samurepo\AnagramCheck\obj\Debug\net5.0\AnagramCheck.AssemblyInfoInputs.cache
+C:\Users\Freedom 7231\Desktop\samurepo\AnagramCheck\obj\Debug\net5.0\AnagramCheck.AssemblyInfo.fs
+C:\Users\Freedom 7231\Desktop\samurepo\AnagramCheck\obj\Debug\net5.0\AnagramCheck.dll
+C:\Users\Freedom 7231\Desktop\samurepo\AnagramCheck\obj\Debug\net5.0\AnagramCheck.xml
+C:\Users\Freedom 7231\Desktop\samurepo\AnagramCheck\obj\Debug\net5.0\AnagramCheck.pdb
