@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "btwy7M12x/jj0MzMSRP5+cWcBILMvbiot+/tDJj7DkVvPsjHSLG6Xvol7wJBoxSuYNEHNdr3qQaKDCdcIdOnqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuel\\kataGroupFSharp\\AnagramCheck\\AnagramCheck.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuel\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
