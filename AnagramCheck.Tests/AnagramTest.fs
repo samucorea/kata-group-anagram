@@ -21,3 +21,8 @@ let AnagramCheckWillReturnListOfKeyValue () =
     Assert.That(actual, Is.EqualTo(expected));
 
 
+[<Test>]
+let AnagramCheckIfThereIsNotAnagramsShouldReturnEmptyList () =
+    let expected = [];
+    let actual = Anagram.getAnagrams [| "hola"; "adios"|]
+    Assert.That(actual, Is.EqualTo(expected));

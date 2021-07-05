@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "SBFaHxDmyC6vCH5XZ6kWGNRoSXYCeY+79usB35zWc26vcDJiujyyZY+As/i/zz0CWKzMPOux9MSMdchNxk5vPg==",
+  "dgSpecHash": "8X9eCwCiBdAklxwXket/gza4SglQaeYyhGHh2u7HZs0T042Mpmbp2nA+P9FVYXuUWVrkEIny6lCWnc7UpeDssw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Freedom 7231\\Desktop\\samurepo\\AnagramCheck\\AnagramCheck.fsproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\kata-Grupal\\kata-group-anagram\\AnagramCheck\\AnagramCheck.fsproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Freedom 7231\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+    "C:\\Users\\Lenovo\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

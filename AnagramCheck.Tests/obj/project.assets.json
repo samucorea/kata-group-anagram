@@ -4720,32 +4720,34 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Freedom 7231\\.nuget\\packages\\": {}
+    "C:\\Users\\Lenovo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Freedom 7231\\Desktop\\samurepo\\AnagramCheck.Tests\\AnagramCheck.Tests.fsproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\kata-Grupal\\kata-group-anagram\\AnagramCheck.Tests\\AnagramCheck.Tests.fsproj",
       "projectName": "AnagramCheck.Tests",
-      "projectPath": "C:\\Users\\Freedom 7231\\Desktop\\samurepo\\AnagramCheck.Tests\\AnagramCheck.Tests.fsproj",
-      "packagesPath": "C:\\Users\\Freedom 7231\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Freedom 7231\\Desktop\\samurepo\\AnagramCheck.Tests\\obj\\",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\kata-Grupal\\kata-group-anagram\\AnagramCheck.Tests\\AnagramCheck.Tests.fsproj",
+      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lenovo\\Desktop\\kata-Grupal\\kata-group-anagram\\AnagramCheck.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Freedom 7231\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Freedom 7231\\Desktop\\samurepo\\AnagramCheck\\AnagramCheck.fsproj": {
-              "projectPath": "C:\\Users\\Freedom 7231\\Desktop\\samurepo\\AnagramCheck\\AnagramCheck.fsproj"
+            "C:\\Users\\Lenovo\\Desktop\\kata-Grupal\\kata-group-anagram\\AnagramCheck\\AnagramCheck.fsproj": {
+              "projectPath": "C:\\Users\\Lenovo\\Desktop\\kata-Grupal\\kata-group-anagram\\AnagramCheck\\AnagramCheck.fsproj"
             }
           }
         }
@@ -4756,6 +4758,7 @@
         "targetAlias": "net5.0",
         "dependencies": {
           "FSharp.Core": {
+            "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
             "target": "Package",
             "version": "[5.0.0, )",
             "generatePathProperty": true
@@ -4791,7 +4794,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

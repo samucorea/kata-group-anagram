@@ -18,3 +18,13 @@ C:\Users\Freedom 7231\Desktop\samurepo\AnagramCheck\obj\Debug\net5.0\AnagramChec
 C:\Users\Freedom 7231\Desktop\samurepo\AnagramCheck\obj\Debug\net5.0\AnagramCheck.dll
 C:\Users\Freedom 7231\Desktop\samurepo\AnagramCheck\obj\Debug\net5.0\AnagramCheck.xml
 C:\Users\Freedom 7231\Desktop\samurepo\AnagramCheck\obj\Debug\net5.0\AnagramCheck.pdb
+C:\Users\Lenovo\Desktop\kata-Grupal\kata-group-anagram\AnagramCheck\bin\Debug\net5.0\AnagramCheck.deps.json
+C:\Users\Lenovo\Desktop\kata-Grupal\kata-group-anagram\AnagramCheck\bin\Debug\net5.0\AnagramCheck.dll
+C:\Users\Lenovo\Desktop\kata-Grupal\kata-group-anagram\AnagramCheck\bin\Debug\net5.0\AnagramCheck.pdb
+C:\Users\Lenovo\Desktop\kata-Grupal\kata-group-anagram\AnagramCheck\bin\Debug\net5.0\AnagramCheck.xml
+C:\Users\Lenovo\Desktop\kata-Grupal\kata-group-anagram\AnagramCheck\obj\Debug\net5.0\AnagramCheck.fsproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\kata-Grupal\kata-group-anagram\AnagramCheck\obj\Debug\net5.0\AnagramCheck.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\kata-Grupal\kata-group-anagram\AnagramCheck\obj\Debug\net5.0\AnagramCheck.AssemblyInfo.fs
+C:\Users\Lenovo\Desktop\kata-Grupal\kata-group-anagram\AnagramCheck\obj\Debug\net5.0\AnagramCheck.dll
+C:\Users\Lenovo\Desktop\kata-Grupal\kata-group-anagram\AnagramCheck\obj\Debug\net5.0\AnagramCheck.xml
+C:\Users\Lenovo\Desktop\kata-Grupal\kata-group-anagram\AnagramCheck\obj\Debug\net5.0\AnagramCheck.pdb

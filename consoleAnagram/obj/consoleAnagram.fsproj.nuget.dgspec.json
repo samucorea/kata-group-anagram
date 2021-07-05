@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Desktop\\kata-Grupal\\kata-group-anagram\\AnagramCheck\\AnagramCheck.fsproj": {}
+    "C:\\Users\\Lenovo\\Desktop\\kata-Grupal\\kata-group-anagram\\consoleAnagram\\consoleAnagram.fsproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Desktop\\kata-Grupal\\kata-group-anagram\\AnagramCheck\\AnagramCheck.fsproj": {
+    "C:\\Users\\Lenovo\\Desktop\\kata-Grupal\\kata-group-anagram\\consoleAnagram\\consoleAnagram.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\kata-Grupal\\kata-group-anagram\\AnagramCheck\\AnagramCheck.fsproj",
-        "projectName": "AnagramCheck",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\kata-Grupal\\kata-group-anagram\\AnagramCheck\\AnagramCheck.fsproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\kata-Grupal\\kata-group-anagram\\consoleAnagram\\consoleAnagram.fsproj",
+        "projectName": "consoleAnagram",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\kata-Grupal\\kata-group-anagram\\consoleAnagram\\consoleAnagram.fsproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\kata-Grupal\\kata-group-anagram\\AnagramCheck\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\kata-Grupal\\kata-group-anagram\\consoleAnagram\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
